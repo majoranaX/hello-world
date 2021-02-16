@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](https://majoranax.github.io/hello-world/) and ![Image](https://i.imgur.com/Nu03VXr.png)
 ```
+[Link](https://majoranax.github.io/hello-world/) and ![Image](https://i.imgur.com/Nu03VXr.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
